@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="04.10.2017Lanin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/04_10_2017Lanin_jar</output-path>
+    <root id="archive" name="04.10.2017Lanin.jar">
+      <element id="module-output" name="Classes and interfaces" />
+    </root>
+  </artifact>
+</component>
